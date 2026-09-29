@@ -1,0 +1,25 @@
+:root {
+  /* Scientific Brand Colors */
+  --color-midnight: #07111F;
+  --color-obsidian: #0B1628;
+  --color-cyan-electric: #52D9F5;
+  --color-cyan-ice: #A8EAF5;
+  --color-lavender-muted: #A7A5FF;
+  --color-warm-white: #F4F7FB;
+  --color-text-secondary: #94A6BC;
+  --color-evidence-green: #54D6A0;
+  --color-uncertainty-amber: #F5BE69;
+
+  /* Glass Surfaces */
+  --glass-bg: rgba(11, 22, 40, 0.75);
+  --glass-border: rgba(82, 217, 245, 0.15);
+  --glass-blur: 16px;
+
+  /* Glow Shadows */
+  --glow-cyan: 0 0 25px -5px rgba(82, 217, 245, 0.35);
+  --glow-lavender: 0 0 25px -5px rgba(167, 165, 255, 0.3);
+  --glow-green: 0 0 25px -5px rgba(84, 214, 160, 0.35);
+
+  /* Transitions */
+  --transition-smooth: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
